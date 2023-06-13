@@ -1,4 +1,4 @@
-FROM node:current-slim
+FROM node:20.3.0-slim
 
 LABEL MAINTAINER=nigelpoulton@hotmail.com
 
